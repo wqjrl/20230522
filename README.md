@@ -44,4 +44,4 @@
 ## 超链接
 [bilibili](https://www.bilibili.com "点击去世")
 
-![桌面截图]("C://Users//Lenovo//Desktop//1.jpg" "点击复活")
+![桌面截图]("https://bu.dusays.com/2024/03/12/65f04d008b784.jpg" "点击复活")
